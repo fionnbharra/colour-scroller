@@ -1,0 +1,9 @@
+src/
+.babelrc
+.npmignore
+.map
+.DS_store
+webpack.config.js
+colour-scroller.min.js
+colour-scroller.js.map
+*.gif
